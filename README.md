@@ -1,4 +1,4 @@
-## Ogrenci-bilgi-Sistemi
+# Ogrenci-bilgi-Sistemi
 
 
-# Structural programming course project assignment
+## Structural programming course project assignment
