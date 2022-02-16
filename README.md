@@ -1,4 +1,4 @@
-# STUDENT INFORMATİON SYSTEM
+# STUDENT INFORMATION SYSTEM
 
 
-## Structural programming course project assignment
+## Structural programming course project assignment.
