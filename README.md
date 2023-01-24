@@ -1,5 +1,5 @@
-# STUDENT INFORMATION SYSTEM
+STUDENT INFORMATION SYSTEM
 
 
-#### Structural programming course project assignment.
+Structural programming course term project.
 
