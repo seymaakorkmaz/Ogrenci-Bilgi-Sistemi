@@ -1,3 +1,4 @@
 ### STUDENT INFORMATION SYSTEM
-- Structural programming course term project.
+- Structural Programming course term project.
+- The documents explaining project and solution have been added to the repository.
 
